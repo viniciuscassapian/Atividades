@@ -71,7 +71,7 @@ O ecossistema pode ser orquestrado com Docker Compose ou similar, integrando:
 
 servico-projeto-flask
 
-servico-reservas-de-Salas
+servico-reserva-de-sala
 
 servico-atividades (este repositório)
 
